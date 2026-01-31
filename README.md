@@ -12,7 +12,6 @@ All commands below are taken directly from my practice session and organized ste
 kubectl delete all --all
 kubectl get all
 
----
 
 ## 📝 Create Deployment YAML
 
@@ -56,6 +55,7 @@ kubectl get pods
 
 ```
 ![kubectl get pods](images/kubectl-get-pods.png)
+
 ```
 
 ---
@@ -80,7 +80,6 @@ kubectl describe pod mydeploy
 
 ```bash
 kubectl rollout undo deployment mydeploy
-```
 
 ### Rollout History
 
