@@ -68,9 +68,9 @@ kubectl describe pod mydeploy
 
 📸 Screenshot:
 
-```
+
 ![describe](images/describe-pod.png)
-```
+`
 
 ---
 
