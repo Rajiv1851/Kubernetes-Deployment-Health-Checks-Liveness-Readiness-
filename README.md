@@ -175,7 +175,7 @@ kubectl exec -it mydeploy-XXXXX -- /bin/bash
 
 ---
 
-## 💼 Recruiter Notes
+## 
 
 This project demonstrates real-world Kubernetes operational skills including:
 
