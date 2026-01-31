@@ -55,7 +55,7 @@ kubectl get pods
 📸 Screenshot:
 
 ```
-(images/kubectl-get-pods.png)
+![kubectl get pods](images/kubectl-get-pods.png)
 ```
 
 ---
@@ -69,7 +69,7 @@ kubectl describe pod mydeploy
 📸 Screenshot:
 
 ```
-(images/describe-pod.png)
+![describe](images/describe-pod.png)
 ```
 
 ---
@@ -99,7 +99,7 @@ kubectl rollout status deployment mydeploy --watch
 📸 Screenshot:
 
 ```
-(images/rolling-update.png)
+![rolling](images/rolling-update.png)
 ```
 
 ---
@@ -163,7 +163,7 @@ kubectl exec -it mydeploy-XXXXX -- /bin/bash
 📸 Screenshot:
 
 ```
-(images/kubectl-exec.png)
+![exec](images/kubectl-exec.png)
 ```
 
 ---
