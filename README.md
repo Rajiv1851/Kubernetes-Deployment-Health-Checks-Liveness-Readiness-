@@ -11,13 +11,6 @@ All commands below are taken directly from my practice session and organized ste
 ```bash
 kubectl delete all --all
 kubectl get all
-```
-
-📸 Screenshot:
-
-```
-(images/delete-all.png)
-```
 
 ---
 
@@ -50,14 +43,6 @@ spec:
         ports:
         - containerPort: 80
 ```
-
-📸 Screenshot:
-
-```
-(images/deploy-yml.png)
-```
-
----
 
 ## ▶️ Apply Deployment
 
@@ -101,13 +86,6 @@ kubectl rollout undo deployment mydeploy
 
 ```bash
 kubectl rollout history deployment mydeploy
-```
-
-📸 Screenshot:
-
-```
-(images/rollout-history.png)
-```
 
 ---
 
@@ -173,13 +151,6 @@ Apply Health Check:
 ```bash
 kubectl apply -f healthcheck.yml
 kubectl get pods
-```
-
-📸 Screenshot:
-
-```
-(images/healthcheck-pods.png)
-```
 
 ---
 
@@ -226,4 +197,4 @@ Aspiring DevOps & Cloud Engineer | Kubernetes | Docker | AWS
 
 ---
 
-> 📌 Note: Replace image placeholders with your real screenshots and commit them in an `images/` folder.
+
