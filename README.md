@@ -51,10 +51,7 @@ kubectl get all
 kubectl get pods
 ```
 
-📸 Screenshot:
 
-
-![kubectl get pods](images/kubectl-get-pods.png)
 
 
 
